@@ -1,1 +1,6 @@
+The data used are the ERA5 reanalysis fields of the geopotential height at 500 hPa. The geopotential height values at 500 hPa have been calculated using the geopotential variable at 500 hPa from the ERA5 dataset.
 
+Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., Nicolas, J., Peubey, C., Radu, R., Rozum, I., Schepers, D., Simmons, A., Soci, C., Dee, D., Thépaut, J-N. (2023): ERA5 hourly data on pressure levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.bd0915c6 (Accessed on 23-03-2025)
+
+
+The temperature data has been downloaded from https://fmassonn.github.io/climate-indices/t2m/Bruxelles.
